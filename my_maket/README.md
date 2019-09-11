@@ -1,5 +1,4 @@
 
-# Somov Dmitry
-### Link [VK](https://vk.com/somov_dmitriy "VK")
+# Layouts
 
 [First layout](https://dmsomov.github.io/My_maket/my_maket/ "Мой первый макет")
